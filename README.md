@@ -1,4 +1,4 @@
-3##Hi there 👋
+## Hi there 👋
 
 I'm a software engineer specializing in full‑stack web development.
 
@@ -17,6 +17,6 @@ I love building scalable APIs and web applications following clean‑code princi
 - **react_vidly** – React front‑end application for movie rental.
 - **School‑Management‑System‑.net‑MVC‑core** – School management system built on .NET Core MVC.
 
-### 💋 Get in touch
+### Get in touch
 
 Feel free to connect with me on LinkedIn or check out my portfolio website. I'm always open to interesting discussions and collaborations.
